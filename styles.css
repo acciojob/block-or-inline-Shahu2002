@@ -1,2 +1,41 @@
 
 /* Your CSS Code here. */
+[data-ns-test="block-inline-button"] button {
+            display: inline;
+        }
+
+        [data-ns-test="block-inline-div"] div {
+            display: block;
+        }
+
+        [data-ns-test="block-inline-span"] span {
+            display: inline;
+        }
+
+        [data-ns-test="block-inline-p"] p {
+            display: block;
+        }
+
+        [data-ns-test="block-inline-input"] input {
+            display: inline;
+        }
+
+        [data-ns-test="block-inline-cite"] cite {
+            display: inline;
+        }
+
+        [data-ns-test="block-inline-code"] code {
+            display: inline;
+        }
+
+        [data-ns-test="block-inline-h1"] h1 {
+            display: block;
+        }
+
+        [data-ns-test="block-inline-sup"] sup {
+            display: inline;
+        }
+
+        [data-ns-test="block-inline-sub"] sub {
+            display: inline;
+        }
